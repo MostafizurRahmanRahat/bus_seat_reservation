@@ -121,6 +121,9 @@
                 else{
                     echo "the price is: ". $price;
                 }
+                $pricesave = fopen("price.txt", "w+");
+                fwrite($pricesave, $price) ;
+                fclose($pricesave);
          }
     }
     fclose($myData); 
