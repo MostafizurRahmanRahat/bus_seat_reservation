@@ -33,11 +33,10 @@ yamen alzeiter
 2- creating local storage for reserved seats and price.
 
 <br><br>
-Mohammad Sazidur Rahman
+Mohammad Sazidur Rahman- 1835197
 <br>
-1- Creating a booking/information form for passenger using HTML & CSS. Also use a tag for time & date. Linked with next page.
-<br>
-2- Designed with CSS
+1- Creating a booking/information form for passenger using HTML & CSS. Also use a tag for time & date. Designed with CSS
+2- Linked seat.php page with booking.php page.
 <br><br>
 your name
 <br>
