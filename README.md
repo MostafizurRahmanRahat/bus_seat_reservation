@@ -33,11 +33,11 @@ yamen alzeiter
 2- creating local storage for reserved seats and price.
 
 <br><br>
-your name
+Mohammad Sazidur Rahman
 <br>
-1-
+1- Creating a booking/information form for passenger using HTML & CSS. Also use a tag for time & date. Linked with next page.
 <br>
-2- 
+2- Designed with CSS
 <br><br>
 your name
 <br>
