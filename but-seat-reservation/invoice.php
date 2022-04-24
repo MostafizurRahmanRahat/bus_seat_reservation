@@ -14,22 +14,7 @@ Phone Number:      <?php echo $_POST["cphone"]; ?><br>
 Destination:       <?php echo $_POST["route"]; ?><br>
 Time:              <?php echo $_POST["dt"]; ?><br>
 Seat Position:     <?php echo $_POST["seat"]; ?><br>
-Price is :         
-<?php 
-$price = 15;
-$newLine = "\n";
-if(substr($seat, -1) == '3'){
-             $price*= 2;
-             echo  "RM". $price; 
-             echo $_POST["seat"];      
-              }
-            else{
-                echo "RM". $price;
-            }
-            if(isset($_POST['price'])){
-                $price = $_POST['price'];
-                echo $_POST["seat"];}
-                ?>
+
 </div>
 <br>
 <br>
