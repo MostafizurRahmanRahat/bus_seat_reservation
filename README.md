@@ -22,11 +22,11 @@ Assigned tasks:
 <br><br>
 ROKI MD RASEL RANA-1820927
 <br>
-CREATED HOME PAGE USING HTML AND PHP 
+1- CREATED HOME PAGE USING HTML AND PHP 
 <br>
-2 DESINGED WITH CSS  . 
+2- DESINGED WITH CSS  . 
 <br><br>
-yamen alzeiter
+Yamen Alzeiter
 <br>
 1- creating the seat page and its functions 
 <br>
@@ -36,17 +36,17 @@ yamen alzeiter
 Mohammad Sazidur Rahman- 1835197
 <br>
 1- Creating a booking/information form for passenger using HTML & CSS. Also use a tag for time & date. Designed with CSS
+<br>
 2- Linked seat.php page with booking.php page.
 <br><br>
-your name
+Md Mostafizur Rahman Rahat- 1823811
 <br>
-1-
+1- Adding seat no in "booking.php" page form. 
 <br>
-2- 
+2- Add php function in "booking.php" page and linked with "invoice.php"(adding echo php) page.
 <br><br>
-your name
+Mokter Hossain- 1825175
 <br>
-1-
-<br>
-2- 
+1- Creating invoice.php page. Adding Css file "st.css"
+2- Linked with Homepage by creating button.
 
