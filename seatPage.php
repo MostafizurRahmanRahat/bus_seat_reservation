@@ -107,7 +107,7 @@
         $seatChosen = $_POST['seat'];
         foreach($myArray as $line_num => $line){
             if(str_contains($line, $seatChosen)){
-                echo "the seat is taken please chose another seat</br>";
+                echo "The seat is taken please chose another seat</br>";
                 $exsist = true;
             }    
          }
@@ -116,18 +116,24 @@
             fwrite($myData, $newLine);
                 if(substr($seatChosen, -1) == '3'){
                  $price*= 2;
-                 echo "the price is: " . $price;       
+                 echo "This seat is available.
+                 The price is: " . $price;       
                   }
                 else{
-                    echo "the price is: ". $price;
+                    echo "This  seat is available.
+                    The price is: ". $price;
                 }
-                $pricesave = fopen("price.txt", "w+");
-                fwrite($pricesave, $price) ;
-                fclose($pricesave);
+                if(isset($_POST['price'])){
+                    $price = $_POST['price'];}
          }
     }
     fclose($myData); 
     ?>
+    </div>
+
+    <div class='tic'>
+    <form action="booking.php" method = "POST">
+     <input type="submit" value ="Book" name = "tbutton">
     </h1>
     </div>
 

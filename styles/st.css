@@ -1,0 +1,37 @@
+.one{
+    color: #500ae9;
+    font-size: 50px;
+    font-family: Arial;
+    padding-left: 500;
+    float: left;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    margin-top: 5px;}
+    
+.two{
+    color: #2f2dbd;
+    font-size: 15px;
+    font-family: Arial;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display:inline-block;
+    background-color: #c6dfdf;
+    border: 5px;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+.three{
+    color: #ff3604;
+    font-display:inherit;
+    background-color: #33aa04;
+    font-size: 35px;
+    font-family: Arial;
+}
+.btn-a
+{
+    padding-left: 900px;
+    padding-top: 50px;
+    
+
+}
