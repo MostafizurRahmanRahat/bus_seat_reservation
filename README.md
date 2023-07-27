@@ -3,7 +3,7 @@ INFO 3305 Web Application Development Case Study
 <br><br>
 Group 6  Members:
 <br><br>
-1-  ROKI MD RASEL RANA - 1820927(group leader)
+1- MD MOSTAFIZUR RAHMAN RAHAT  - (group leader)
 <br>
 2-  yamen alzeiter 1725635
 <br>
@@ -11,7 +11,7 @@ Group 6  Members:
 <br>
 4- MOHAMMAD SAZIDUR RAHMAN-1835197
 <br>
-5- your name
+5- ROKI MD RASEL RANA - 1820927
 
 <br><br>
 Our Case study is about an bus seat reservation system which allows the user to to choose the distinaion, date, and seat no. The output will show ticket infomation with the price.
